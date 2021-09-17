@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Passdroid</string>
+    <string name="Send">Button</string>
+    <string name="servicedesc">This program will communicate with the PC to send user credentials securelly.</string>
+    <string name="aiddescription"> F0010203040506 </string>
+    <string name="send">Send</string>
+    <string name="text_above">Please enter credentials to be send</string>
+</resources>
