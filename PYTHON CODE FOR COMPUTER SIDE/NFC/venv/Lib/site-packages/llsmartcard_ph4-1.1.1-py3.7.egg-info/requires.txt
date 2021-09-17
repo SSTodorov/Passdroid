@@ -1,0 +1,9 @@
+six
+pyDes>=2.0.1
+pyscard
+
+[dev]
+pep8
+tox
+pandoc
+pypandoc
